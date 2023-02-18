@@ -1,0 +1,16 @@
+[
+{
+  "modid": "damagestack",
+  "name": "Damage Stack",
+  "description": "this mod is intended to be used in Hypixel Skyblock",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["prism"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
